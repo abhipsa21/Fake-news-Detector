@@ -6,8 +6,8 @@ The project aims to develop a machine-learning model capable of identifying and 
 
 1. **Logistic Regression**
 2. **Decision Tree Classifier**
-3. **Gradient Boost Classifier**
-4. **Random Forest Classifier**
+3. **Random Forest Classifier**
+
 
 ## Project Overview
 
@@ -84,10 +84,5 @@ We evaluated each classifier's performance using metrics such as accuracy, preci
 Once you are satisfied with the performance of a particular classifier, you can deploy it in a real-world application or integrate it into a larger system for automatic fake news detection.
 ---
 
-## Project Screenshots
 
-#### Not a Fake News
-![Not a Fake News](https://github.com/kapilsinghnegi/Fake-News-Detection/assets/118688453/3d079c46-118a-4c53-a515-43b9146001c5)
 
-#### Fake News
-![Fake News](https://github.com/kapilsinghnegi/Fake-News-Detection/assets/118688453/2f5262f7-801d-4293-824c-13c29fb97fed)
